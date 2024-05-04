@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Traveller](https://github.com/beyzagursoy/TravellerProject)
 
-- 🌱 I’m currently learning **Typescript,Node.js,GraphQL**
+- 🌱 I’m currently learning **Typescript,GraphQL**
 
 - 💬 Ask me about **React, Javascript**
 
